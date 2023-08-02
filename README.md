@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
     <head>
         <meta charset="utf-8">
         <title>Shreya Fegade - Personal CV </title>
@@ -326,4 +325,3 @@
         <!-- Template Javascript -->
         <script src="js/main.js"></script>
     </body>
-</html>
